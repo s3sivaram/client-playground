@@ -1,0 +1,17 @@
+.sidebar {
+  height: 100vh;
+  width: 25vw;
+  border: 2px red solid;
+  background-color: rgb(214, 137, 36);
+}
+.mainpanel {
+  height: 100vh;
+  width: 75%;
+}
+.box {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  border-color: royalblue;
+  border-style: solid;
+}

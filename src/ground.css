@@ -1,0 +1,23 @@
+.container {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.timerbox {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  border: 1px solid red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.start.inactive {
+  pointer-events: none;
+}
+
+.itemactive {
+  background-color: aqua;
+}
